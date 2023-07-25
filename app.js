@@ -5,9 +5,6 @@ const express = require("express");
 const app = express();
 
 
-console.log("hello dear");
-// Hello Shakir Sir
-
 const http = require("http");
 const https = require('https');
 const socketIo = require("socket.io");
